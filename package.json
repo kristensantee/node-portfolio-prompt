@@ -1,0 +1,23 @@
+{
+  "name": "portfolio-prompt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kristensantee/node-portfolio-prompt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kristensantee/node-portfolio-prompt/issues"
+  },
+  "homepage": "https://github.com/kristensantee/node-portfolio-prompt#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
